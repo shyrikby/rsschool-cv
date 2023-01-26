@@ -1,0 +1,78 @@
+/*https://shyrikby.github.io/rsschool-cv/*/
+
+# Alexandr Charepkin
+
+## Junior Frontend Developer
+
+---
+
+### My contact information:
+
+**Phone:** +375291314138  
+**E-mail:** front-end_javascript@mail.ru  
+**Telegram:** @shyrikby  
+[VK](https://vk.com/id197686055)  
+[Twitter](https://twitter.com/shyrikby75)  
+[Skype](https://join.skype.com/invite/BJALar9sPvmW)
+
+---
+
+### Briefly About Myself:
+
+I always liked to look at the coding of other developers and every year I have more and more attracted the process and beauty of the written code by other programmers, and I set a goal Become a programmer, but in what area of ​​development could not solve for myself.
+In 2016, IT technologies were actively developed in Belarus and I entered the courses of the Academy "Step" in Gomel "Software Development". After the end of the courses tried to change the generation of the activity and pass testing, but because of the bad knowledge of English did not pass.
+My perseverance in learning programming languages gives me a great opportunity to change my future and become a Junior Frontend Developer to begin with and develop radically in this area.
+
+---
+
+### Skills and Proficiency:
+
+- HTML5, CSS3
+- JavaScript Basics
+- Git, GitHub
+- VS Code
+- С++
+  - Basics of the theory of algorithms and data structures
+    - Procedural programming using language with
+  - Object-oriented C ++ programming
+  - Database Management Systems: DBMS Programming Principles
+    - Programming and Administration Microsoft SQL Server 2016
+
+---
+
+### Code example:
+
+_My code on the MAP in Codewarrior:
+The followig task has been set "We need a function that can transform string a number. What ways of achieving this do you know?_
+
+```
+include<iostream>
+using namespace std;
+int string_to_number(const std::string& s)
+{
+	int numer = stoi(a);
+	cout << a;
+	return numer;
+}
+```
+
+---
+
+### Courses:
+
+![](загруженное.png)![](<загруженное(1).png>)
+![](<загруженное(2).png>)![](<загруженное(3).png>)
+![](<загруженное(4).png>)![](<загруженное(5).png>)
+![](<загруженное(6).png>)![](<загруженное(7).png>)
+![](<загруженное(8).png>)
+
+- RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+
+---
+
+### Languages:
+
+**English:** With the help of technology, provide everyone with access to training comparable to classes with a tutor.(in progress)(https://www.duolingo.com/learn)  
+**Russian:** conversational  
+**Belarussian:** national
+
