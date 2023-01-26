@@ -50,8 +50,8 @@ include<iostream>
 using namespace std;
 int string_to_number(const std::string& s)
 {
-	int numer = stoi(s);
-	cout << s;
+	int numer = stoi(a);
+	cout << a;
 	return numer;
 }
 ```
